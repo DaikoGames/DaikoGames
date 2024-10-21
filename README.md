@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Gamedevelopment
-- 📫 How to reach me, via my discord
+- 📫 How to reach me? On my Discord! 
 - ⚡ Fun fact: I will soon publish my own game
 
 <!---
