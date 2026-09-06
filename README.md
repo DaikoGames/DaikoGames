@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C# and Unity
 - ✨ I’m a Developer that can work with other people
 - 📫 How to reach me? On my Discord! 
-- ⚡ Fun fact: I will soon publish my own converter and my own game
+- ⚡ Fun fact: I will soon publish my own converter
+- 
 
 <!---
 DaikoGames/DaikoGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
